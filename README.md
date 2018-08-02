@@ -2,5 +2,4 @@
 #ram
 
 
-"point 7 "
 
